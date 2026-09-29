@@ -1,0 +1,2 @@
+{"timestamp": "2026-09-29T04:16:04.894766Z", "client_ip": "testclient", "event_type": "auth_failure", "details": {"reason": "Missing or invalid API key"}}
+{"timestamp": "2026-09-29T04:16:04.899158Z", "client_ip": "testclient", "event_type": "data_redaction", "details": {"action": "redacted_sensitive_data"}}
